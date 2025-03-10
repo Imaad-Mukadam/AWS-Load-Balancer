@@ -116,7 +116,7 @@ vii. after this click on create load balancer
 
 i. Copy the DNS name , and paste it on your browser
 
-![image alt](1.PNG)
+![image alt](19.PNG)
 
 ii. Refresh your website you will see you are redirecting on different instances after every refresh
 
